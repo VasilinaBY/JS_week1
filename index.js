@@ -1,4 +1,4 @@
-let YourName = prompt('Как тебя зовут?', '');
+let YourName = prompt('Как Вас зовут?', '');
 alert(`Привет, ${YourName}!`);
 
 function summ(x, y) {
